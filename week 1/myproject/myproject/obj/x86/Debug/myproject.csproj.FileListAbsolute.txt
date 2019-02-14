@@ -1,0 +1,6 @@
+/Users/Queen/Desktop/PP2/week 1/myproject/myproject/bin/Debug/myproject.exe
+/Users/Queen/Desktop/PP2/week 1/myproject/myproject/bin/Debug/myproject.pdb
+/Users/Queen/Desktop/PP2/week 1/myproject/myproject/obj/x86/Debug/myproject.csprojAssemblyReference.cache
+/Users/Queen/Desktop/PP2/week 1/myproject/myproject/obj/x86/Debug/myproject.csproj.CoreCompileInputs.cache
+/Users/Queen/Desktop/PP2/week 1/myproject/myproject/obj/x86/Debug/myproject.exe
+/Users/Queen/Desktop/PP2/week 1/myproject/myproject/obj/x86/Debug/myproject.pdb
