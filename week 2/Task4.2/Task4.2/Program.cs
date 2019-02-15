@@ -7,12 +7,12 @@ namespace Task4
         static void Main(string[] args)
         {
             string path = "/Users/Queen/Desktop";//указываем адрес path
-            string nameFile = "text.txt";//создаем в нем файл
+            string nameFile = "text.txt";//создаем файл в path
 
-            string path1 = "/Users/Queen/Desktop/PP2";//указываем адрес path1
+            string path1 = "/Users/Queen/Desktop/PP2";//указывем адрес path1
 
-            StreamWriter sw = new StreamWriter(path + nameFile);//вводим в path слово
-            sw.WriteLine("AbCdEf");//выводим на экран
+            StreamWriter sw = new StreamWriter(path + nameFile);//добавляем текстовый в path
+            sw.WriteLine("AbCdEf");//добавляем текст в текствовый файл 
             sw.WriteLine("AbCdEf");
 
             sw.Close();

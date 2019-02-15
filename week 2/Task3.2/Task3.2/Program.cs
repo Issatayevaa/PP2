@@ -22,16 +22,16 @@ namespace Task3
                 Console.WriteLine(f.Name);//выводим имя файла
             }
 
-            foreach(DirectoryInfo di in arrayofDirectories)//для каждого 
+            foreach(DirectoryInfo di in arrayofDirectories)//для каждой директории 
             {
-                printSpaces(level);
-                Console.WriteLine(di.Name);
+                printSpaces(level);//делаем отступ 
+                Console.WriteLine(di.Name);//выводим имя директории
                 showDirectory(di, level + 1);
             }
         }
         static void Main(string[] args)
         {
-            DirectoryInfo di = new DirectoryInfo("/Users/Queen/Desktop/PP2");
+            DirectoryInfo di = new DirectoryInfo("/Users/Queen/Desktop/PP2");//адрес директории
 
             showDirectory(di, 0);
 
