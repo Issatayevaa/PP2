@@ -31,10 +31,10 @@ namespace Task2
 
         static void Main(string[] args)
         {
-            Student s = new Student("a", 1);//
+            Student s = new Student("a", 1);//создаем переменную состоящую из имени и года обучения
             Console.WriteLine(s.getId());
-            s.getId();
-            s.incrementYearOfStudy();
+            s.getId();//вызываем функцию
+            s.incrementYearOfStudy();//вызываем функцию
             Console.WriteLine(s.yearofstudy);//выводит год обучния на экран
 
             Console.ReadKey();//чтобы,консоль не закрывался

@@ -1,0 +1,6 @@
+/Users/Queen/Desktop/PP2/week 2/Task3.2/Task3.2/obj/x86/Debug/Task3.2.csprojAssemblyReference.cache
+/Users/Queen/Desktop/PP2/week 2/Task3.2/Task3.2/obj/x86/Debug/Task3.2.csproj.CoreCompileInputs.cache
+/Users/Queen/Desktop/PP2/week 2/Task3.2/Task3.2/bin/Debug/Task3.2.exe
+/Users/Queen/Desktop/PP2/week 2/Task3.2/Task3.2/bin/Debug/Task3.2.pdb
+/Users/Queen/Desktop/PP2/week 2/Task3.2/Task3.2/obj/x86/Debug/Task3.2.exe
+/Users/Queen/Desktop/PP2/week 2/Task3.2/Task3.2/obj/x86/Debug/Task3.2.pdb

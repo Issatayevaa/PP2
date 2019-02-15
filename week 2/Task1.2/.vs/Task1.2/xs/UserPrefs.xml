@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{CCE961E3-839C-4A3D-BC1B-DC71841B9C97}|Default">
   <MonoDevelop.Ide.ItemProperties.Task1.2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../week 1/Task2/Task2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task1.2/Program.cs">
     <Files>
-      <File FileName="../../week 1/Task2/Task2/Program.cs" Line="1" Column="1" />
+      <File FileName="Task1.2/Program.cs" Line="18" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
